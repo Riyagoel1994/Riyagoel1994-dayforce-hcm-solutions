@@ -3,7 +3,6 @@ Optimize Your HR Processes with Dayforce Recruiting Software and Comprehensive I
 
 # 🧠 Dayforce Workforce Management & HCM Solutions
 
-![Last Commit](https://img.shields.io/github/last-commit/Riyagoel1994/dayforce-hcm-solutions)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Dayforce HCM](https://img.shields.io/badge/Dayforce-HCM-blue)
 
